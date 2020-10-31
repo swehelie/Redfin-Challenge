@@ -5,7 +5,10 @@ Thank you for taking the time to look at my program.
 ```
 git clone Redfin-Challenge
 ```
-2. Compile and run using terminal:
+2. If Java and Apache Maven aren't already installed, then install using these links:
+http://maven.apache.org/download.cgi
+https://www.java.com/en/download/
+3. Compile and run using terminal:
 ```
 javac FoodTruckTracker.java
 java FoodTruckTracker
