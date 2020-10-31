@@ -1,5 +1,15 @@
 # Redfin-Challenge
-
+## How to run program
+Thank you for taking the time to look at my program.
+1. Clone or download folder from github.
+```
+git clone Redfin-Challenge
+```
+2. Compile and run using terminal:
+```
+javac FoodTruckTracker.java
+java FoodTruckTracker
+```
 As this was my first-time fetching data from a URL in a short amount of time, I split up the functions into parts. Also, I found this easier to be done on my own IDE.
 The Java classes that I have created are FoodTruck.java, FoodTruckAPI.java, FoodTruckTracker.java, ConvertCalendar.java.
 
