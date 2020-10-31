@@ -24,3 +24,6 @@ The main class of the program. Creates the tree map and keeps track of the day a
 
 ConvertCalendar.java
 Converts time to digital and day into a day order that the data prefers. 
+
+## Aspects I would have changed:
+I would change the way the restaurants are listed. I would try to implement pages, so that the user isn't overwhelmed with the number of food trucks that are open. 
